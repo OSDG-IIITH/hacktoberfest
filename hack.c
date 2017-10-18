@@ -3,7 +3,7 @@ int main()
 {
 int i;
 for(i=0;i>=0;i++)
-printf("HACK ");
+iprintf("HACK\n");
 return 0;
 }
 
