@@ -20,15 +20,15 @@ IIIT Hyderabad, Gachibowli
 - You can also reedem $10 credit in infrastructure at do.co/hacktoberfest17.
 
 ### Main Organiser:
-OSDG -IIIT in asscoation with Center for Open Source, IIIT Hyderabad.
+OSDG - IIIT in asscoation with Center for Open Source, IIIT Hyderabad.
 
 ### Organizing Partner:
 Coderplex Community
 
 ### Partner Communities
-Rust Hyderabad
-Drupal Hyderabad
-GEO Hyderabad
+- Rust Hyderabad
+- Drupal Hyderabad
+- GEO Hyderabad
 
 ### FAQ :
 **Will I receive the T-shirt on the same day?**
