@@ -35,7 +35,7 @@ OSDG - IIIT in asscoation with Center for Open Source, IIIT Hyderabad.
 
 ### FAQ :
 **Will I receive the T-shirt on the same day?**
-No, the t-shirts will be provided Digital Ocean after a period of time. They will be directly be sent to you. 
+No, the t-shirts will be provided Digital Ocean after a period of time. They will be sent to you directly. 
 
 **What are the rules?**
 To win a shirt, you must sign up on the Hacktoberfest site and make four pull requests on GitHub by October 31st. (Pull requests do not have to be merged and accepted; as long as they've been opened between the very start of October 1 and the very end of October 31, they count towards a free T-shirt.)
