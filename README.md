@@ -12,6 +12,9 @@ The most active contributos, who make at least 4 PR's merged, will receive T-shi
 ### Venue: 
 IIIT Hyderabad, Gachibowli
 
+### Date | Time
+29th October | 10 am - 5 pm
+
 ### Sponsors:
 - Venue & WiFi sponsored by IIIT-H,
 - Tea & Snacks sponsored by Center for Open Source, IIIT-H
