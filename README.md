@@ -17,13 +17,13 @@ IIIT Hyderabad, Gachibowli
 - Tea & Snacks sponsored by Center for Open Source, IIIT-H
 - Lunch sponsored by Digital Ocean (not-confirmed)
 - T-shirt sponsored by Digital Ocean & GitHub
-- You can also reedem $10 credit in infrastructure at do.co/hacktoberfest17.
+- You can also reedem $10 credit in infrastructure at [Digital Ocean](do.co/hacktoberfest17).
 
 ### Main Organiser:
 OSDG - IIIT in asscoation with Center for Open Source, IIIT Hyderabad.
 
 ### Organizing Partner:
-Coderplex Community
+[Coderplex Community](https://coderplex.org)
 
 ### Partner Communities
 - Rust Hyderabad
