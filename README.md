@@ -31,7 +31,8 @@ OSDG - IIIT in asscoation with Center for Open Source, IIIT Hyderabad.
 ### Partner Communities
 - [Angular Hyderabad](https://www.meetup.com/nghyderabad)
 - [Java User Group Hyderabad](https://www.meetup.com/jughyderabad/)
-- Rust Hyderabad
+- [Hyderabad Python User Group](http://www.hydpy.org)
+- [Rust Hyderabad](https://www.meetup.com/preview/Rust-Hyderabad)
 - Drupal Hyderabad
 - GEO Hyderabad
 
