@@ -29,6 +29,8 @@ OSDG - IIIT in asscoation with Center for Open Source, IIIT Hyderabad.
 [Coderplex Community](https://coderplex.org)
 
 ### Partner Communities
+- [Angular Hyderabad](https://www.meetup.com/nghyderabad)
+- [Java User Group Hyderabad](https://www.meetup.com/jughyderabad/)
 - Rust Hyderabad
 - Drupal Hyderabad
 - GEO Hyderabad
