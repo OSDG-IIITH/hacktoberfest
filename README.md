@@ -33,8 +33,8 @@ OSDG - IIIT in asscoation with Center for Open Source, IIIT Hyderabad.
 - [Java User Group Hyderabad](https://www.meetup.com/jughyderabad/)
 - [Hyderabad Python User Group](http://www.hydpy.org)
 - [Rust Hyderabad](https://www.meetup.com/preview/Rust-Hyderabad)
-- Drupal Hyderabad
-- GEO Hyderabad
+- [Drupal Hyderabad](https://www.meetup.com/preview/Drupal-Hyderabad)
+- [GEO Hyderabad](https://twitter.com/GeoHyderabad)
 
 ### FAQ :
 **Will I receive the T-shirt on the same day?**
