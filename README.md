@@ -16,11 +16,13 @@ IIIT Hyderabad, Gachibowli
 29th October | 10 am - 5 pm
 
 ### Sponsors:
-- Venue & WiFi sponsored by IIIT-H,
-- Tea & Snacks sponsored by Center for Open Source, IIIT-H
-- Lunch sponsored by Digital Ocean (not-confirmed)
-- T-shirt sponsored by Digital Ocean & GitHub
+- Venue & Wi-Fi, refreshments sponsored by IIIT-Hyderabad
+- T-shirt* by Digital Ocean & GitHub
 - You can also reedem $10 credit in infrastructure at [Digital Ocean](do.co/hacktoberfest17).
+- Win swag from various FOSS organsaitons
+- Looking for Sponsors for lunch.
+
+For Partnership/Sponsorship opportunities, contact [Ranjith Raj Vasam](https://www.linkedin.com/in/ranjithrajvasam/) at ranjithraj.vasam@gmail.com
 
 ### Main Organiser:
 OSDG - IIIT in asscoation with Center for Open Source, IIIT Hyderabad.
@@ -35,7 +37,7 @@ OSDG - IIIT in asscoation with Center for Open Source, IIIT Hyderabad.
 
 ### FAQ :
 **Will I receive the T-shirt on the same day?**
-No, the t-shirts will be provided Digital Ocean after a period of time. They will be sent to you directly. 
+No, the t-shirts will be provided Digital Ocean after a period of time. They will be sent to you directly.
 
 **What are the rules?**
 To win a shirt, you must sign up on the Hacktoberfest site and make four pull requests on GitHub by October 31st. (Pull requests do not have to be merged and accepted; as long as they've been opened between the very start of October 1 and the very end of October 31, they count towards a free T-shirt.)
