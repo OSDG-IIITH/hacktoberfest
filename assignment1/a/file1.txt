@@ -1,0 +1,25 @@
+total 104
+-rw-rw-r-- 1 user user   10 Jan 20  2017 1.c
+drwxrwxr-x 2 user user 4096 Sep 17 12:09 20171038
+-rw-rw-r-- 1 user user  567 Aug 17 15:40 a.cpp
+-rw-rw-r-- 1 user user  567 Aug 17 15:39 a.cpp~
+-rw-rw-r-- 1 user user  506 Sep  8 20:24 anton.c
+-rwxrwxr-x 1 user user 8521 Sep 13 12:44 a.out
+drwxrwxr-x 4 user user 4096 Sep 17 12:10 Assignment1
+drwxr-xr-x 3 user user 4096 Aug 26 16:28 Desktop
+drwxr-xr-x 3 user user 4096 Aug 19 19:48 Documents
+drwxr-xr-x 3 user user 4096 Sep 16 16:19 Downloads
+-rw-r--r-- 1 user user 8980 Nov 24  2016 examples.desktop
+-rw-rw-r-- 1 user user  296 Sep  8 22:26 guy.c
+-rw-rw-r-- 1 user user   69 Sep 13 12:44 hello.c
+drwxrwxr-x 2 user user 4096 Aug 17 14:12 j
+-rw-rw-r-- 1 user user    0 Sep  8 22:52 meow
+drwxr-xr-x 2 user user 4096 Nov 24  2016 Music
+-rw-rw-r-- 1 user user   39 Aug 16 11:51 myfile.txt
+-rw-rw-r-- 1 user user    0 Sep 17 12:10 MyLogs.log
+drwxr-xr-x 2 user user 4096 Aug 24 23:41 Pictures
+drwxr-xr-x 2 user user 4096 Nov 24  2016 Public
+drwxrwxr-x 4 user user 4096 Sep 16 10:18 surendra
+drwxr-xr-x 2 user user 4096 Nov 24  2016 Templates
+-rw-rw-r-- 1 user user  461 Sep  8 20:18 user@10.3.11.186
+drwxr-xr-x 2 user user 4096 Nov 24  2016 Videos
