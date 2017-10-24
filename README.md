@@ -7,7 +7,7 @@ Hacktoberfest is an annual  month-long event to celebrate and encourage more dev
 
 In this meetup, we'll take a beginner friendly session on Git and GitHub, tell you about [GSoC](https://summerofcode.withgoogle.com), and provide you with guidance to participate in 2018. We'll then let you pair up with other attendees, pick your projects and start contributing. We will have mentors present throughout the venue, to guide you with the technology and making the contributions. 
 
-The most active contributos, who make at least 4 PR's merged, will receive T-shirts sponsored by Digital Ocean. 
+The most active contributors, who make at least 4 PR's merged, will receive T-shirts sponsored by Digital Ocean. 
 
 ### Venue: 
 IIIT Hyderabad, Gachibowli
@@ -16,7 +16,7 @@ IIIT Hyderabad, Gachibowli
 29th October | 10 am - 5 pm
 
 ### Sponsors:
-- Venue & WiFi sponsored by IIIT-H,
+- Venue & WiFi sponsored by IIIT-H
 - Tea & Snacks sponsored by Center for Open Source, IIIT-H
 - Lunch sponsored by Digital Ocean (not-confirmed)
 - T-shirt sponsored by Digital Ocean & GitHub
@@ -42,7 +42,7 @@ OSDG - IIIT in asscoation with Center for Open Source, IIIT Hyderabad.
 No, the t-shirts will be provided Digital Ocean after a period of time. They will be directly be sent to you. 
 
 **What are the rules?**
-To win a shirt, you must sign up on the Hacktoberfest site and make four pull requests on GitHub by October 31st. (Pull requests do not have to be merged and accepted; as long as they've been opened between the very start of October 1 and the very end of October 31, they count towards a free T-shirt.)
+To win a t-shirt, you must sign up on the Hacktoberfest site and make four pull requests on GitHub by October 31st. (Pull requests do not have to be merged and accepted; as long as they've been opened between the very start of October 1 and the very end of October 31, they count towards a free T-shirt.)
 
 **Where can I make pull requests?**
 Pull requests can be made in any GitHub-hosted repositories/projects.
