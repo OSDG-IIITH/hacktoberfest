@@ -1,1 +1,1 @@
-# hacktoberfest
+# hactoberfest hyderabad organization
