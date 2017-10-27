@@ -1,0 +1,30 @@
+#include<stdio.h>
+double area(int a, int b, int c)
+{
+	double s;
+	s=(float)(a+b+c)/(float)2;
+	//printf("%f", s);
+	return(s*(s-(float)a)*(s-(float)b)*(s-(float)c));
+}
+int main()
+{
+	double area(int a, int b, int c);
+	int n, arra[100005],arrb[100005],arrc[100005],i;
+	scanf("%d", &n);
+	for(i=0;i<n;i++)
+	scanf("%d", &arra[i]);
+	for(i=0;i<n;i++)
+	scanf("%d", &arrb[i]);
+	for(i=0;i<n;i++)
+	scanf("%d", &arrc[i]);
+	for(i=0;i<n;i++)
+	{
+		double tri=area(arra[i], arrb[i], arrc[i]);
+		if(tri>0)
+		printf("Yes\n");
+		else
+		printf("No\n");
+	}
+	return 0;
+}
+ 
