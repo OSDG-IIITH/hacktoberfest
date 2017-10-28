@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 { 
-  printf("helloworld");
+  printf("Hacktoberfest is on!\n");
+  return 0;
 }
 
 
