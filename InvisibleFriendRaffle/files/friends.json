@@ -1,0 +1,54 @@
+[
+  {
+  	"id" : 1,
+    "name": "Friend 1",
+    "email": "friend1@gmail.com",
+    "excludes" : [2,3]
+  },
+  {
+    "id" : 2,
+    "name": "Friend 2",
+    "email": "friend2@gmail.com",
+    "excludes" : [1]
+  },
+  {
+    "id" : 3,
+    "name": "Friend 3",
+    "email": "friend3@gmail.com",
+    "excludes" : []
+  },
+  {
+    "id" : 4,
+    "name": "Friend 4",
+    "email": "friend4@gmail.com",
+    "excludes" : []
+  },
+    {
+    "id" : 5,
+    "name": "Friend 5",
+    "email": "friend5@gmail.com",
+    "excludes" : []
+  },
+    {
+    "id" : 6,
+    "name": "Friend 6",
+    "email": "friend6@gmail.com",
+    "excludes" : []
+  },
+    {
+    "id" : 7,
+    "name": "Friend 7",
+    "email": "friend7@gmail.com",
+    "excludes" : []
+  },
+    {
+    "id" : 8,
+    "name": "Friend 8",
+    "email": "friend8@gmail.com",
+    "excludes" : []
+  },
+  {
+  	"message" : "Ahi va el sorteo"
+  }
+
+]
