@@ -1,0 +1,4 @@
+#!/bin/bash
+Hii
+Hello
+How are u
