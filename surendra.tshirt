@@ -1,0 +1,9 @@
+#include<tshirt.h>
+
+int t-shirt()
+{
+	sizeof(t-shirt)=L;
+	colorof(t-shirt)=red;
+
+	return tshirt
+}
