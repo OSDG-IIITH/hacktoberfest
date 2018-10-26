@@ -1,7 +1,10 @@
 #include<stdio.h>
+#include<conio.h>
 int main()
 { 
-  printf("helloworld");
+  clrscr();
+  printf("hello world");
+  getch();
 }
 
 
